@@ -11,14 +11,14 @@ AppKit is a Bootstrap Angular admin theme.
 <div class="screenshot-holder">
 
 [![screenshot](assets/images/demo/appkit-chart-chartjs.jpg){: .img-responsive}](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)  
-[*&nbsp;*{: .icon .fa .fa-link}](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm){: .mask}
+[*&nbsp;*{: .icon .fas .fa-link}](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm){: .mask}
   
 </div>
 
 
 ### 2. Global Configurations
 
-*&nbsp;*{: .fa .fa-external-link-square}
+*&nbsp;*{: .fas .fa-external-link-square-alt}
 **Source:** <http://www.chartjs.org/docs/>
 
 ```javascript

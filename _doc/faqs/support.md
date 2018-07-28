@@ -3,7 +3,7 @@ title: Support
 ---
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Quisque consectetur iaculis odio
+### *&nbsp;*{: .fas .fa-question-circle} Quisque consectetur iaculis odio
 
 {: .answer}
 Nulla a convallis augue, eget scelerisque sapien. Nulla ut purus lobortis nibh viverra auctor eget vitae sem.
@@ -13,7 +13,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Duis maximus mollis sit amet pharetra?
+### *&nbsp;*{: .fas .fa-question-circle} Duis maximus mollis sit amet pharetra?
 
 {: .answer}
 Nulla a convallis augue, eget scelerisque sapien. Nulla ut purus lobortis nibh viverra auctor eget vitae sem.
@@ -23,7 +23,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Pellentesque habitant morbi tristique senectus?
+### *&nbsp;*{: .fas .fa-question-circle} Pellentesque habitant morbi tristique senectus?
 
 {: .answer}
 Nulla a convallis augue, eget scelerisque sapien. Nulla ut purus lobortis nibh viverra auctor eget vitae sem.

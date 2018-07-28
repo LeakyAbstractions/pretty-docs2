@@ -9,7 +9,7 @@ sections:
   - /showcase/premium_themes
   - /showcase/free_themes
 promo:
-  title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
+  title: "*&nbsp;*{: .fas .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm
   image:
     alt: AppKit Theme
@@ -34,7 +34,7 @@ promo:
 
 <div class="jumbotron">
 
-# *&nbsp;*{: .fa .fa-twitter} Themes built with Twitter Bootstrap
+# *&nbsp;*{: .fab .fa-twitter} Themes built with Twitter Bootstrap
 
 You can use this page layout to showcase how other people are using your projects.
 Below is a list of UX-centred Bootstrap themes I made for developers.

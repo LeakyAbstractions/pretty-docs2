@@ -3,7 +3,7 @@ title: Features
 ---
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Why am I getting congue condimentum turpis?
+### *&nbsp;*{: .fas .fa-question-circle} Why am I getting congue condimentum turpis?
 
 {: .answer}
 Curabitur convallis sapien eget porttitor tincidunt. Aenean vehicula congue tortor, in ullamcorper metus porta a.
@@ -31,7 +31,7 @@ Sed mollis eget nisi eu aliquam.
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} How are gravida implemented?
+### *&nbsp;*{: .fas .fa-question-circle} How are gravida implemented?
 
 <div class="answer">
   <p>
@@ -48,7 +48,7 @@ Sed mollis eget nisi eu aliquam.
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} How does vehicula manage congue tortor?
+### *&nbsp;*{: .fas .fa-question-circle} How does vehicula manage congue tortor?
 
 {: .answer}
 Curabitur convallis sapien eget porttitor tincidunt. Aenean vehicula congue tortor, in ullamcorper metus porta a.
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Why does vehicula manage congue tortor?
+### *&nbsp;*{: .fas .fa-question-circle} Why does vehicula manage congue tortor?
 
 {: .answer}
 Aliquam a dui turpis. In vel tellus eget erat ullamcorper egestas at et lectus.
@@ -69,7 +69,7 @@ In hac habitasse platea dictumst. Quisque vel euismod sem, sit amet viverra just
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Why does vehicula manage congue tortor?
+### *&nbsp;*{: .fas .fa-question-circle} Why does vehicula manage congue tortor?
 
 {: .answer}
 Quisque dignissim, lectus ac pretium dapibus, nunc arcu ornare nunc, et aliquam odio augue vitae eros.

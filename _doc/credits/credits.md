@@ -4,12 +4,12 @@ short_title: Credits
 ---
 
 {: .list .list-unstyled}
-- [*&nbsp;*{: .fa .fa-external-link-square} Bootstrap](http://getbootstrap.com/)
-- [*&nbsp;*{: .fa .fa-external-link-square} FontAwesome](http://fortawesome.github.io/Font-Awesome/)
-- [*&nbsp;*{: .fa .fa-external-link-square} Elegant icon font](http://www.elegantthemes.com/blog/resources/elegant-icon-font)
-- [*&nbsp;*{: .fa .fa-external-link-square} Google Fonts](http://www.google.com/webfonts)
-- [*&nbsp;*{: .fa .fa-external-link-square} jQuery](http://jquery.com/)
-- [*&nbsp;*{: .fa .fa-external-link-square} Prism](http://prismjs.com/index.html)
-- [*&nbsp;*{: .fa .fa-external-link-square} Bootstrap Lightbox](http://ashleydw.github.io/lightbox/)
-- [*&nbsp;*{: .fa .fa-external-link-square} jQuery ScrollTo](http://flesler.blogspot.co.uk/2007/10/jqueryscrollto.html)
-- [*&nbsp;*{: .fa .fa-external-link-square} jQuery Match Height](http://brm.io/jquery-match-height/)
+- [*&nbsp;*{: .fas .fa-external-link-square-alt} Bootstrap](http://getbootstrap.com/)
+- [*&nbsp;*{: .fas .fa-external-link-square-alt} FontAwesome](http://fortawesome.github.io/Font-Awesome/)
+- [*&nbsp;*{: .fas .fa-external-link-square-alt} Elegant icon font](http://www.elegantthemes.com/blog/resources/elegant-icon-font)
+- [*&nbsp;*{: .fas .fa-external-link-square-alt} Google Fonts](http://www.google.com/webfonts)
+- [*&nbsp;*{: .fas .fa-external-link-square-alt} jQuery](http://jquery.com/)
+- [*&nbsp;*{: .fas .fa-external-link-square-alt} Prism](http://prismjs.com/index.html)
+- [*&nbsp;*{: .fas .fa-external-link-square-alt} Bootstrap Lightbox](http://ashleydw.github.io/lightbox/)
+- [*&nbsp;*{: .fas .fa-external-link-square-alt} jQuery ScrollTo](http://flesler.blogspot.co.uk/2007/10/jqueryscrollto.html)
+- [*&nbsp;*{: .fas .fa-external-link-square-alt} jQuery Match Height](http://brm.io/jquery-match-height/)

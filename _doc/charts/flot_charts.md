@@ -7,14 +7,14 @@ title: Flot Charts
 <div class="screenshot-holder">
 
 [![screenshot](assets/images/demo/appkit-chart-flot.jpg){: .img-responsive}](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)
-[*&nbsp;*{: .icon .fa .fa-link}](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm){: .mask}
+[*&nbsp;*{: .icon .fas .fa-link}](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm){: .mask}
 
 </div>
 
 
 ### 2. Basic Usage
 
-*&nbsp;*{: .fa .fa-external-link-square} **Source:** <https://github.com/flot/flot/blob/master/README.md>
+*&nbsp;*{: .fas .fa-external-link-square-alt} **Source:** <https://github.com/flot/flot/blob/master/README.md>
 
 Create a placeholder div to put the graph in:
 

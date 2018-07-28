@@ -26,7 +26,7 @@ Follow me on twitter and I will keep you informed about my next free template th
  </div>
  <div class="list list-inline center-block">
 
-[*&nbsp;*{: .fa .fa-twitter} Follow Xiaoying on Twitter](https://twitter.com/3rdwave_themes){: .btn .btn-cta .btn-orange}
+[*&nbsp;*{: .fab .fa-twitter} Follow Xiaoying on Twitter](https://twitter.com/3rdwave_themes){: .btn .btn-cta .btn-orange}
 
  </div>
 </div>

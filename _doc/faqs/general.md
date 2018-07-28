@@ -3,7 +3,7 @@ title: General
 ---
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Can I viverra sit amet quam eget lacinia?
+### *&nbsp;*{: .fas .fa-question-circle} Can I viverra sit amet quam eget lacinia?
 
 {: .answer}
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
@@ -13,7 +13,7 @@ Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} What is the ipsum dolor sit amet quam tortor? **New**{: .label .label-success}
+### *&nbsp;*{: .fas .fa-question-circle} What is the ipsum dolor sit amet quam tortor? **New**{: .label .label-success}
 
 {: .answer}
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
@@ -21,7 +21,7 @@ eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dic
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} How does the morbi quam tortor work?
+### *&nbsp;*{: .fas .fa-question-circle} How does the morbi quam tortor work?
 
 {: .answer}
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -33,7 +33,7 @@ Suspendisse ornare ex vel imperdiet cursus.
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} How does the morbi quam tortor work? **Updated**{: .label .label-warning}
+### *&nbsp;*{: .fas .fa-question-circle} How does the morbi quam tortor work? **Updated**{: .label .label-warning}
 
 {: .answer}
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -41,7 +41,7 @@ Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} How do I submit gravida justo ut sem feugiat?
+### *&nbsp;*{: .fas .fa-question-circle} How do I submit gravida justo ut sem feugiat?
 
 {: .answer}
 Quisque rhoncus elit in ullamcorper finibus. Mauris diam ipsum, tristique id nibh at, sagittis suscipit odio.
@@ -50,7 +50,7 @@ Aliquam ac enim non magna vulputate mattis. Proin non vulputate est, id aliquam 
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Are there any gravida justo ut sem feugiat?
+### *&nbsp;*{: .fas .fa-question-circle} Are there any gravida justo ut sem feugiat?
 
 {: .answer}
 Curabitur convallis sapien eget porttitor tincidunt. Aenean vehicula congue tortor, in ullamcorper metus porta a.

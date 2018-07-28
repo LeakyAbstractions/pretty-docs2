@@ -26,11 +26,11 @@ Nam consequat porttitor libero euismod congue.
 ###### CTA Buttons
 
 {: .list .list-unstyled}
-- [*&nbsp;*{: .fa .fa-download}           Download Now  ](#){: .btn .btn-primary .btn-cta}
-- [*&nbsp;*{: .fa .fa-code-fork}          Fork Now      ](#){: .btn .btn-green .btn-cta}
-- [*&nbsp;*{: .fa .fa-play-circle}        Find Out Now  ](#){: .btn .btn-blue .btn-cta}
-- [*&nbsp;*{: .fa .fa-bug}                Report Bugs   ](#){: .btn .btn-orange .btn-cta}
-- [*&nbsp;*{: .fa .fa-exclamation-circle} Submit Issues ](#){: .btn .btn-red .btn-cta}
+- [*&nbsp;*{: .fas .fa-download}           Download Now  ](#){: .btn .btn-primary .btn-cta}
+- [*&nbsp;*{: .fas .fa-code-branch}        Fork Now      ](#){: .btn .btn-green .btn-cta}
+- [*&nbsp;*{: .fas .fa-play-circle}        Find Out Now  ](#){: .btn .btn-blue .btn-cta}
+- [*&nbsp;*{: .fas .fa-bug}                Report Bugs   ](#){: .btn .btn-orange .btn-cta}
+- [*&nbsp;*{: .fas .fa-exclamation-circle} Submit Issues ](#){: .btn .btn-red .btn-cta}
 
  </div>
 </div>

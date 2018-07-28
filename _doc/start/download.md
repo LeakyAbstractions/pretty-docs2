@@ -7,4 +7,4 @@ Etiam at posuere leo. Proin ultrices ex et dapibus feugiat [link example](#) aen
 Etiam quis elit euismod, imperdiet augue sit amet, imperdiet odio. Aenean sem erat, hendrerit  eu gravida id, dignissim ut ante.
 Nam consequat porttitor libero euismod congue.
 
-[*&nbsp;*{: .fa .fa-download} Download PrettyDocs](http://themes.3rdwavemedia.com){: .btn .btn-green}
+[*&nbsp;*{: .fas .fa-download} Download PrettyDocs](http://themes.3rdwavemedia.com){: .btn .btn-green}

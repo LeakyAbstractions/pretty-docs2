@@ -18,7 +18,7 @@ Designed for Products
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/){: .mask}
 
   </div>
  </div>
@@ -37,7 +37,7 @@ Designed for Startups
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/){: .mask}
 
   </div>
  </div>
@@ -56,7 +56,7 @@ Designed for Web Development Agencies
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/){: .mask}
 
   </div>
  </div>
@@ -75,7 +75,7 @@ Designed for App Startups
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/){: .mask}
 
   </div>
  </div>
@@ -94,7 +94,7 @@ Designed for Mobile Apps
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-mobile-apps-delta/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-mobile-apps-delta/){: .mask}
 
   </div>
  </div>
@@ -113,7 +113,7 @@ Designed for Builders
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-builders-tradesmen-trades/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-builders-tradesmen-trades/){: .mask}
 
   </div>
  </div>
@@ -132,7 +132,7 @@ Designed for Restaurants
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-restaurants-epicure/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-restaurants-epicure/){: .mask}
 
   </div>
  </div>
@@ -151,7 +151,7 @@ Designed for Weddings
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-wedding-invitation-template-matrimony/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-wedding-invitation-template-matrimony/){: .mask}
 
   </div>
  </div>
@@ -170,7 +170,7 @@ Designed for Bands
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-bands-and-musicians-decibel/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-bands-and-musicians-decibel/){: .mask}
 
   </div>
  </div>
@@ -189,7 +189,7 @@ Designed for Crowdfunding
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-crowdfunding-campaigns-onboard/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-crowdfunding-campaigns-onboard/){: .mask}
 
   </div>
  </div>

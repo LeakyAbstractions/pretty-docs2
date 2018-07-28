@@ -16,7 +16,7 @@ sections:
 You can [build your own version](http://prismjs.com/download.html) via their website should you need to.
 
 
-<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}	
+<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fas .fa-thumbs-up}	
 </div><div class="content">
 {: .callout-title}
 Useful Tip:

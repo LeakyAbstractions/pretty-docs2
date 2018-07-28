@@ -9,7 +9,7 @@ Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, v
 In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
 
 
-<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fas .fa-info-circle}
 </div><div class="content">
 {: .callout-title}
 #### Aenean imperdiet
@@ -20,7 +20,7 @@ Nemo enim ipsam voluptatem quia voluptas [link example](#) sit aspernatur aut od
 </div></div>
 
 
-<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
+<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fas .fa-bug}
 </div><div class="content">
 {: .callout-title}
 #### Morbi posuere
@@ -31,7 +31,7 @@ Fusce sem orci, cursus in tortor [link example](#) tellus vel diam viverra eleme
 </div></div>
 
 
-<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
+<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fas .fa-thumbs-up}
 </div><div class="content">
 {: .callout-title}
 #### Lorem ipsum dolor sit amet
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. [Link example](#) aene
 </div></div>
 
 
-<div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+<div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fas .fa-exclamation-triangle}
 </div><div class="content">
 {: .callout-title}
 #### Interdum et malesuada

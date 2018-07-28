@@ -7,7 +7,7 @@ title: Morris.js
 <div class="screenshot-holder">
 
 [![screenshot](assets/images/demo/appkit-chart-flot.jpg){: .img-responsive}](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)
-[*&nbsp;*{: .icon .fa .fa-link}](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm){: .mask}
+[*&nbsp;*{: .icon .fas .fa-link}](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm){: .mask}
 
 </div>
 
@@ -32,7 +32,7 @@ Start by adding a `<div>` to your page that will contain your chart. Make sure i
 <div id="myfirstchart" style="height: 250px;"></div>
 ```
 
-<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fas .fa-info-circle}
 </div><div class="content">
 {: .callout-title}
 #### Note:

@@ -18,7 +18,7 @@ Portfolio theme for developers
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/){: .mask}
 
   </div>
  </div>
@@ -37,7 +37,7 @@ Project theme for developers
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/devaid-free-bootstrap-theme-developers/){: .mask}
+[*&nbsp;*{: .icon .fas .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/devaid-free-bootstrap-theme-developers/){: .mask}
 
   </div>
  </div>

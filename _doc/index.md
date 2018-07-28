@@ -4,9 +4,9 @@ title: Home
 tagline: |
   Free Bootstrap theme for your project documentation
   
-  Designed with *&nbsp;*{: .fa .fa-heart} for developers
+  Designed with *&nbsp;*{: .fas .fa-heart} for developers
   
-  Ready to use in *&nbsp;*{: .fa .fa-github} Github Pages
+  Ready to use in *&nbsp;*{: .fab .fa-github} Github Pages
 heading: Getting started is easy!
 navigation:
   - /start
@@ -26,8 +26,8 @@ You can customise the icon fonts based on your needs.
 
 <div class="cta-container">
 
-[*&nbsp;*{: .fa .fa-cloud-download} Download Now][PRETTYDOCS]{: .btn .btn-primary .btn-cta}
-[*&nbsp;*{: .fa .fa-github} Use in GitHub Pages][GHPAGES]{: .btn .btn-green .btn-primary .btn-cta}
+[*&nbsp;*{: .fas .fa-cloud-download-alt} Download Now][PRETTYDOCS]{: .btn .btn-primary .btn-cta}
+[*&nbsp;*{: .fab .fa-github} Use in GitHub Pages][GHPAGES]{: .btn .btn-green .btn-primary .btn-cta}
 
 </div>
 

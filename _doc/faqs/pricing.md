@@ -3,7 +3,7 @@ title: Pricing
 ---
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} How much is magna at posuere? **New**{: .label .label-success}
+### *&nbsp;*{: .fas .fa-question-circle} How much is magna at posuere? **New**{: .label .label-success}
 
 {: .answer}
 Curabitur nec ipsum placerat, accumsan justo eu, imperdiet augue. Praesent eget mattis erat.
@@ -14,7 +14,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Can I risus felis eget odio?
+### *&nbsp;*{: .fas .fa-question-circle} Can I risus felis eget odio?
 
 {: .answer}
 Curabitur nec ipsum placerat, accumsan justo eu, imperdiet augue. Praesent eget mattis erat.
@@ -25,7 +25,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Can I purus lobortis nibh?
+### *&nbsp;*{: .fas .fa-question-circle} Can I purus lobortis nibh?
 
 {: .answer}
 Ut cursus, felis vel vulputate dictum, nisi mauris aliquam mi, sed venenatis leo sem eu diam.
@@ -35,7 +35,7 @@ Donec eget sem eget lectus eleifend ullamcorper sit amet vel quam.
 
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Why consequat lacus eu ante?
+### *&nbsp;*{: .fas .fa-question-circle} Why consequat lacus eu ante?
 
 {: .answer}
 Nulla a convallis augue, eget scelerisque sapien. Nulla ut purus lobortis nibh viverra auctor eget vitae sem.
