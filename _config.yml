@@ -1,7 +1,7 @@
 #
 # Site settings
 #
-remote_theme: LeakyAbstractions/pretty-docs
+remote_theme: LeakyAbstractions/pretty-docs2
 url: https://leakyabstractions.github.io
 baseurl: /pretty-docs
 title: &site_title Pretty Docs
