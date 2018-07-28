@@ -1,0 +1,46 @@
+
+	                <div class="github-btn mb-2">
+                      {% for button in site.share.github_buttons %}
+                        {% if button.target %}
+                          {% assign target = button.target %}
+                        {% elsif site.share.github.repo %}
+                          {% assign target = site.share.github.repo %}
+                        {% endif %}
+                        {% case button.type %}
+                          {% when 'follow' %}
+                            {% assign caption = 'Follow @'            | append: target %}
+                            {% assign label   = 'Follow @'            | append: target | append: ' on GitHub' %}
+                            {% assign link    = 'https://github.com/' | append: target %}
+                            {% assign icon    = 'octicon-mark-github' %}
+                          {% when 'watch' %}
+                            {% assign caption = 'Watch' %}
+                            {% assign label   = 'Watch '              | append: target | append: ' on GitHub' %}
+                            {% assign link    = 'https://github.com/' | append: target | append: '/subscription' %}
+                            {% assign icon    = 'octicon-eye' %}
+                          {% when 'star' %}
+                            {% assign caption = 'Star' %}
+                            {% assign label   = 'Star '               | append: target | append: ' on GitHub' %}
+                            {% assign link    = 'https://github.com/' | append: target %}
+                            {% assign icon    = 'octicon-star' %}
+                          {% when 'fork' %}
+                            {% assign caption = 'Fork' %}
+                            {% assign label   = 'Fork '               | append: target | append: ' on GitHub' %}
+                            {% assign link    = 'https://github.com/' | append: target | append: '/fork' %}
+                            {% assign icon    = 'octicon-repo-forked' %}
+                          {% when 'issue' %}
+                            {% assign caption = 'Issue' %}
+                            {% assign label   = 'Issue '              | append: target | append: ' on GitHub' %}
+                            {% assign link    = 'https://github.com/' | append: target | append: '/issues' %}
+                            {% assign icon    = 'octicon-issue-opened' %}
+                          {% when 'download' %}
+                            {% assign caption = 'Download' %}
+                            {% assign label   = 'Download '           | append: target | append: ' on GitHub' %}
+                            {% assign link    = 'https://github.com/' | append: target | append: '/archive/master.zip' %}
+                            {% assign icon    = 'octicon-cloud-download' %}
+                        {% endcase %}
+                        {% if button.caption    %}{% assign caption = button.caption %}{% endif %}
+                        {% if button.link       %}{% assign link    = button.link    %}{% endif %}
+                        {% if button.icon       %}{% assign icon    = button.icon    %}{% endif %}
+                        <a class="github-button" href="{{ link }}" data-icon="{{ icon }}" aria-label="{{ label }}"{% if button.large %} data-size="large"{% endif %}{% if button.show_count %} data-show-count="true"{% endif %}>{{ caption }}</a>
+                      {% endfor %}
+	                </div>

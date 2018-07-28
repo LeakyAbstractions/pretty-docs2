@@ -2,9 +2,7 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<html lang="en">
 <head>
 
     <title>{{ site.title }} &bull; {{ page.title }}</title>
@@ -17,21 +15,19 @@ layout: compress
     <link rel="canonical" href="{{ site.url | append: site.baseurl | append: page.url }}" />
     <link rel="shortcut icon" href="{{ '/assets/images/favicon.ico'                                        | prepend: site.baseurl }}">
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+    <!-- FontAwesome JS -->
+    <script defer src="//use.fontawesome.com/releases/v5.1.1/js/all.js" integrity="sha384-BtvRZcyfv4r0x/phJt9Y9HhnN5ur1Z+kZbKVgzVBAlQZX4jvAuImlIz+bG7TS00a" crossorigin="anonymous"></script>
     <!-- Global CSS -->
     <link rel="stylesheet" type="text/css" href="{{ '/assets/plugins/bootstrap/css/bootstrap.min.css'      | prepend: site.baseurl }}">
     <!-- Plugins CSS -->
     <link rel="stylesheet" type="text/css" href="{{ '/assets/plugins/font-awesome/css/font-awesome.css'    | prepend: site.baseurl }}">
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/plugins/lightbox/dist/ekko-lightbox.min.css'  | prepend: site.baseurl }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/plugins/lightbox/dist/ekko-lightbox.css'      | prepend: site.baseurl }}">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/plugins/elegant_font/css/style.css'           | prepend: site.baseurl }}">
 
     <!-- Theme CSS -->
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/highlight.css'                            | prepend: site.baseurl }}">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/styles.css'                               | prepend: site.baseurl }}" id="theme-style">
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/custom.css'                               | prepend: site.baseurl }}" id="custom-style">
 
     {% include open_graph.html %}
     {% include twitter_cards.html %}
@@ -54,8 +50,8 @@ layout: compress
 
                 <!-- BREADCRUMB -->
                 <ol class="breadcrumb">
-                    <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
-                    <li class="active">{{ page.title }}</li>
+                    <li class="breadcrumb-item"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+                    <li class="breadcrumb-item active">{{ page.title }}</li>
                 </ol>
 
                 {% if site.share.github %}
@@ -76,7 +72,7 @@ layout: compress
                         {{ page.title }}
                     </h1>
 
-                    <div class="meta"><i class="fa fa-clock-o"></i> Last updated: {{ site.posts.first.date | date: '%B %d, %Y' }}</div>
+                    <div class="meta"><i class="far fa-clock"></i> Last updated: {{ site.posts.first.date | date: '%B %d, %Y' }}</div>
 
                 </div>
 
@@ -94,8 +90,7 @@ layout: compress
                             <section id="{{ post.title | slugify }}" class="doc-section">
                                 <h2 class="section-title">{{ post.title }}</h2>
                                 <div class="section-block">
-                                    <div class="meta"><i class="fa fa-clock-o"></i> {{ post.date | date: '%B %d, %Y' }}</div>
-                                    {{ post.content | markdownify }}
+                                    <div class="meta"><i class="far fa-clock"></i> {{ post.date | date: '%B %d, %Y' }}</div>
                                 </div>
                             </section>
                           {% endfor %}
@@ -126,11 +121,11 @@ layout: compress
     {% include footer.html %}
 
     <!-- Main Javascript -->
-    <script type="text/javascript" src="{{ '/assets/plugins/jquery-1.12.3.min.js'                          | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ '/assets/plugins/jquery-3.3.1.min.js'                           | prepend: site.baseurl }}"></script>
     <script type="text/javascript" src="{{ '/assets/plugins/bootstrap/js/bootstrap.min.js'                 | prepend: site.baseurl }}"></script>
     <script type="text/javascript" src="{{ '/assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js'        | prepend: site.baseurl }}"></script>
     <script type="text/javascript" src="{{ '/assets/plugins/lightbox/dist/ekko-lightbox.min.js'            | prepend: site.baseurl }}"></script>
-    <script type="text/javascript" src="{{ '/assets/plugins/jquery-match-height/jquery.matchHeight-min.js' | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ '/assets/plugins/stickyfill/dist/stickyfill.min.js'             | prepend: site.baseurl }}"></script>
     <script type="text/javascript" src="{{ '/assets/js/main.js'                                            | prepend: site.baseurl }}"></script>
 
 </body>
