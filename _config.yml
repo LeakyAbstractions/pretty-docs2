@@ -64,6 +64,13 @@ share:
     repo: LeakyAbstractions/pretty-docs
     position: right
     color: red
+  github_buttons:
+    - type: star
+      target: LeakyAbstractions/pretty-docs2
+      large: true
+    - type: follow
+      target: guillermocalvo
+      large: true
 
 
 # Google Analytics
